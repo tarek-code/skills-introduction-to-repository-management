@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tarek-code
+/src/backend/database.py      @tarek-code
+/src/backend/routers/auth.py  @tarek-code
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tarek-code
